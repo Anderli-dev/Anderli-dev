@@ -1,6 +1,6 @@
 ## 👋 Hi there!
 
-My name is Ivan.
+My name is Ivan.<br>
 I'm from Ukraine, living in Kiev and currently i'm a student who always sets hard goals in my life.
 That's all for now, but I hope there will be something to say in the future.
 
