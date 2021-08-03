@@ -10,7 +10,7 @@ That's all for now, but I hope there will be something to say in the future.
     <table>
     <tr>
         <td>
-        <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anderli-dev&hide=html&layout=compact&hide_border=true&hide_title=true&theme=darkicon_color=5194f0&bg_color=0d1117" />
+        <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anderli-dev&hide=html&layout=compact&hide_border=true&hide_title=true&theme=darkicon_color=5194f0&bg_color=0d1117" />
         </td>
     </tr>   
     </table>
