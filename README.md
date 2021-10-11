@@ -4,7 +4,7 @@ My name is Ivan.<br>
 I'm from Ukraine, living in Kiev and currently i'm a student😊 who always sets hard goals in my life.
 That's all for now😅, but I hope there will be something to say in the future.
 <br>
-How to reach me:<a href="https://t.me/nothing_interesting_for_u" rel="nofollow">Telegram</a>
+💬How to reach me:<a href="https://t.me/nothing_interesting_for_u" rel="nofollow"> Telegram</a>
 
 ### 📈 GitHub Stats</h2>
 
