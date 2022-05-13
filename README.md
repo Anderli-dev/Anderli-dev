@@ -5,7 +5,7 @@ I'm from Ukraine, living in Kiev and currently i'm a student who always sets har
 That's all for now😅, but I hope there will be something to say in the future.
 <br>
 * 💬How to reach me:<a href="https://t.me/nothing_interesting_for_u" rel="nofollow"> Telegram</a>
-* 📝My <a href="https://stackoverflow.com/users/18865946/ivan-s" rel="nofollow">Stack Owerflow</a>
+* 📝My <a href="https://stackoverflow.com/users/18865946/ivan-s" rel="nofollow">Stack Owerflow</a> page
 
 ### 📈 GitHub Stats</h2>
 
