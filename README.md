@@ -5,9 +5,9 @@ I'm from Ukraine, living in Kiev and currently i'm a student who always sets har
 That's all for now😅, but I hope there will be something to say in the future.
 <br>
 <br>
-  How to reach me:
-* 💬<a href="https://t.me/nothing_interesting_for_u" rel="nofollow"> Telegram</a>
-* 📑<a href="https://www.linkedin.com/in/ivan-suprun/" rel="nofollow">Linkedin</a>
+  How to reach me:<br>
+💬<a href="https://t.me/nothing_interesting_for_u" rel="nofollow"> Telegram</a><br>
+📑<a href="https://www.linkedin.com/in/ivan-suprun/" rel="nofollow">Linkedin</a>
 
 ### 📈 GitHub Stats</h2>
 
