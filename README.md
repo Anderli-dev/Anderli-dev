@@ -1,7 +1,7 @@
 ## 👋 Hi there!
 
 My name is Ivan.<br>
-I'm from Ukraine, living in Kyiv and currently i'm a student who always sets hard goals in my life.
+I'm from Ukraine, living in Kyiv and currently i'm a self-motivated and goal-oriented individual.
 That's all for now😅, but I hope there will be something to say in the future.
 <br>
 <br>
